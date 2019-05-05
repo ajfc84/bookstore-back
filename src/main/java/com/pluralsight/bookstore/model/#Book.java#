@@ -1,0 +1,10 @@
+@Entity
+public class Book {
+
+    Enttity
+    
+    public Book find(Long id) {
+	
+    }
+    
+}
